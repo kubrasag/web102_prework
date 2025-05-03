@@ -21,6 +21,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -60,6 +66,7 @@ body {
 .game-card:hover {
     cursor: pointer;
     box-shadow: 0 0 30px lightblue;
+
 }
 
 #button-container {
@@ -73,3 +80,30 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #7dabc3;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar a {
+    color: rgb(6, 65, 38);
+    text-decoration: none;
+    margin: 0 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    transition: color 0.3s;
+  }
+  
+  .navbar a:hover {
+    color: #ffcc00;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
