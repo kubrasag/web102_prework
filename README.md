@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-'Video Walkthrough': 'https://imgur.com/a/LqgZuGD' 'Video Walkthrough' 
+['https://imgur.com/a/LqgZuGD'](https://imgur.com/a/5zi1A16)
+<img src='['https://imgur.com/a/LqgZuGD'](https://imgur.com/a/5zi1A16)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with   
-<!-- Recommended tools: LiceCap
+GIF created with LiceCap
 
 ## Notes
 
