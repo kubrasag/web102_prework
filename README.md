@@ -4,7 +4,7 @@ Submitted by: Kubra Sag
 
 **Sea Monster Games** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 8 hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
@@ -33,7 +33,7 @@ Some of the challenges I encountered while building the app included understandi
 
 ## License
 
-    Copyright 2025 Kubra Sag
+    Copyright 2025 CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
