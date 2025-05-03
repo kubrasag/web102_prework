@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='./assets/demo.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with LiceCap
+GIF created with QuickTime Player
 
 ## Notes
 
